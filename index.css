@@ -1,0 +1,17 @@
+body {
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+.flex-r {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+h2 {
+  text-align: center;
+}
+img {
+  max-width: 90vw;
+}
